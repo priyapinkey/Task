@@ -10,6 +10,12 @@ public class GreensTech {
       private void companyAddress() {
 		System.out.println("No 20 pillayar koil street chennai-60007");
 	}
+      private void studentName() {
+		System.out.println("Student name is priya");	
+		}
+      private void studentId() {
+		System.out.println("Student id is 1234");
+	}
       public static void main(String[] args) {
 		GreensTech g= new GreensTech();
 	    g.companyName();
